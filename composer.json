@@ -17,7 +17,7 @@
     "require": {
         "php": ">=7.0",
         "illuminate/support": ">=5.5",
-        "jlorente/stethome-php-sdk": "^2.0.2"
+        "jlorente/stethome-php-sdk": "^2.0.3"
     },
     "autoload": {
         "psr-4": {
